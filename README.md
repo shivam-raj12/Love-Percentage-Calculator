@@ -30,7 +30,7 @@ To run this project, you'll need:
 ### Installation
 1: Clone the repository to your local machine:
 ```bash
-git clone https://github.com/shivam-raj12/Love_Percentage_Calculator.git
+git clone https://github.com/shivam-raj12/Love-Percentage-Calculator.git
 ```
 2: Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, Android Studio, or Visual Studio Code).
 
