@@ -8,6 +8,14 @@ Welcome to the **Love Percentage Calculator**! This Kotlin-based command-line in
 - **Name-Based Calculation**: Computes a "love percentage" based on the provided names.
 - **Fun and Engaging**: Perfect for sharing with friends and sparking fun conversations!
 
+## Disclaimer
+This calculator is just for fun! The results are playful and don't reflect any real-life compatibility or relationship scores. So, while it might make you laugh and spark some conversations, remember not to take it seriously!
+> Love is not a math problem; it's an art 🎨 that we paint with our actions 🤝 and feelings ❤️.
+
+> [!IMPORTANT]
+> Don’t just calculate love—celebrate it! 🎉💖 Give a hug 🤗 or send a sweet message! 💌✨
+> 
+> The more you express your love, the more it grows! 🌱❤️ So let it shine! 🌟🌈
 
 ## Getting Started
 ### Prerequisites
@@ -34,4 +42,4 @@ If you'd like to contribute to this fun project, feel free to open an issue or s
 ## Acknowledgments
 Thank you for checking out the Love Percentage Calculator! We hope it brings a smile to your face. 
 
-**Remember to express your love every day! :)**
+**Remember to express your love every day! ❤️😊**
